@@ -146,9 +146,10 @@
 
 <div align="center">
 
-   
 
-<img src="https://cdn.simpleicons.org/powershell/00FF88" width="60" height="60" alt="PowerShell"/>
+<img src="https://cdn.simpleicons.org/gnubash/00FF88" width="60" height="60" alt="Bash"/>
+
+   
 
 </div>
 
