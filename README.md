@@ -116,15 +116,9 @@
 
 <img src="https://img.icons8.com/fluency/96/encryption.png" width="60" height="60" alt="Encryption"/>
 
-   
-
 <img src="https://img.icons8.com/fluency/96/data-protection.png" width="60" height="60" alt="Data Protection"/>
 
-   
-
 <img src="https://img.icons8.com/fluency/96/database-backup.png" width="60" height="60" alt="Backup"/>
-
-   
 
 <img src="https://img.icons8.com/fluency/96/restore-page.png" width="60" height="60" alt="Recovery"/>
 
