@@ -116,13 +116,7 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/🔐-ENCRYPTION-111111?style=for-the-badge&labelColor=111111" alt="Encryption"/>
-
-<img src="https://img.shields.io/badge/🛡️-DATA%20PROTECTION-111111?style=for-the-badge&labelColor=111111" alt="Data Protection"/>
-
-<img src="https://img.shields.io/badge/💾-BACKUP-111111?style=for-the-badge&labelColor=111111" alt="Backup"/>
-
-<img src="https://img.shields.io/badge/↻-RECOVERY-111111?style=for-the-badge&labelColor=111111" alt="Recovery"/>
+<img src="https://img.icons8.com/fluency/96/data-protection.png" width="60" height="60" alt="Data Protection"/>
 
 </p>
 
