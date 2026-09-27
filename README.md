@@ -1,4 +1,8 @@
-## Hi there 👋
+<p align="center">
+  <img src="./github_intro_github_50fps_small.gif" width="100%">
+</p>
+
+<h2 align="center">Learning to code. Building things. One step at a time.</h2>
 
 <!--
 **dev-brunoslab/dev-brunoslab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
