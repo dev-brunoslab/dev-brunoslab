@@ -1,200 +1,223 @@
 <div align="center">
 
-# `> BRUNO CARDOSO`
+# `BRUNO CARDOSO`
 
 ### `CYBERSECURITY • PRIVACY • DEFENSIVE SECURITY`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=900&color=00FF88&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Privacy+%26+Defensive+Security;Systems+%7C+Networks+%7C+Access+Control;Learn+%7C+Practice+%7C+Build+%7C+Improve" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=720&lines=Cybersecurity+Student;Privacy+%26+Defensive+Security;Systems+%7C+Networks+%7C+Access+Control;Learn+%7C+Practice+%7C+Build+%7C+Improve" alt="Cybersecurity terminal typing animation"/>
 
 </div>
 
 ---
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│                          SECURITY CONSOLE                            │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  STATUS      ● ONLINE                                                │
+│  FOCUS       PRIVACY / DEFENSIVE SECURITY                            │
+│  SYSTEMS     WINDOWS / LINUX                                        │
+│  MODE        LEARNING / PRACTICING                                  │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 ## `> WHOAMI`
 
 ```text
-┌──────────────────────────────────────────────┐
-│ CYBERSECURITY STUDENT                        │
-│                                              │
-│ Focus:                                       │
-│ • Privacy                                    │
-│ • Defensive Security                         │
-│ • Systems                                    │
-│ • Networks                                   │
-│ • Access Control                              │
-│ • Data Protection                             │
-└──────────────────────────────────────────────┘
+Cybersecurity student focused on:
+
+[+] Privacy
+[+] Defensive Security
+[+] Systems
+[+] Networks
+[+] Authentication
+[+] Access Control
+[+] Data Protection
 ```
 
 ---
 
-# `> TECHNOLOGIES & TOOLS`
-
-## 🖥️ OPERATING SYSTEMS
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" width="60" height="60" alt="Windows"/>
+# `TECHNOLOGIES & TOOLS`
 
-   
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" height="60" alt="Linux"/>
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│  OPERATING SYSTEMS                                                   │
+│                                                                      │
+│       [ WINDOWS ]                    [ LINUX ]                       │
+│                                                                      │
+│                                                                      │
+│  VIRTUALIZATION                    NETWORK & PRIVACY                 │
+│                                                                      │
+│       [ VIRTUALBOX ]                [ VPN ]  [ FIREWALL ]            │
+│                                                                      │
+│                                                                      │
+│  ACCESS & AUTHENTICATION            DATA PROTECTION                  │
+│                                                                      │
+│       [ 2FA ]                       [ ENCRYPTION ]                    │
+│       [ ACCESS CONTROL ]            [ DATA PROTECTION ]               │
+│       [ LEAST PRIVILEGE ]           [ BACKUP ] [ RECOVERY ]          │
+│                                                                      │
+│                                                                      │
+│  TERMINAL / CLI                                                       │
+│                                                                      │
+│       [ BASH ]             [ POWERSHELL ]             [ CLI ]         │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
+### Operating Systems
+
 <p align="center">
-<code>WINDOWS</code>
-&nbsp;&nbsp;
-<code>LINUX</code>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" width="55" alt="Windows"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="55" alt="Linux"/>
 </p>
 
----
-
-## 📦 VIRTUALIZATION
-
-<div align="center">
-
-<img src="https://cdn.simpleicons.org/virtualbox/00FF88" width="65" height="65" alt="VirtualBox"/>
-
-<br>
-
-<code>VIRTUALBOX</code>
-
-</div>
-
----
-
-## 🌐 NETWORK & PRIVACY
-
-<div align="center">
-
-<img src="https://cdn.simpleicons.org/fortinet/00FF88" width="60" height="60" alt="Firewall"/>
-
-   
-
-<img src="https://cdn.simpleicons.org/openvpn/00FF88" width="60" height="60" alt="VPN"/>
-
-</div>
+### Virtualization
 
 <p align="center">
-<code>VPN</code>
+<img src="https://cdn.simpleicons.org/virtualbox/00FF88" width="55" alt="VirtualBox"/>
+</p>
+
+### Network & Privacy
+
+<p align="center">
+<img src="https://cdn.simpleicons.org/openvpn/00FF88" width="55" alt="VPN"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/fortinet/00FF88" width="55" alt="Firewall"/>
+</p>
+
+### Access & Authentication
+
+<p align="center">
+
+<img src="https://img.icons8.com/fluency/96/security-checked.png" width="50" alt="2FA"/>
 &nbsp;&nbsp;&nbsp;
-<code>FIREWALL</code>
+
+<img src="https://img.icons8.com/fluency/96/access-control.png" width="50" alt="Access Control"/>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://img.icons8.com/fluency/96/lock.png" width="50" alt="Least Privilege"/>
+
 </p>
-
----
-
-## 🔐 ACCESS & AUTHENTICATION
-
-<div align="center">
-
-<img src="https://img.icons8.com/fluency/96/security-checked.png" width="60" height="60" alt="2FA"/>
-
-   
-
-<img src="https://img.icons8.com/fluency/96/access-control.png" width="60" height="60" alt="Access Control"/>
-
-   
-
-<img src="https://img.icons8.com/fluency/96/lock.png" width="60" height="60" alt="Least Privilege"/>
-
-</div>
 
 <p align="center">
 <code>2FA</code>
-&nbsp;&nbsp;
+&nbsp;•&nbsp;
 <code>ACCESS CONTROL</code>
-&nbsp;&nbsp;
+&nbsp;•&nbsp;
 <code>LEAST PRIVILEGE</code>
 </p>
 
----
+### Data Protection
 
-## 🛡️ DATA PROTECTION
+<p align="center">
 
-<div align="center">
+<img src="https://img.icons8.com/fluency/96/encryption.png" width="50" alt="Encryption"/>
+&nbsp;&nbsp;
+<img src="https://img.icons8.com/fluency/96/data-protection.png" width="50" alt="Data Protection"/>
+&nbsp;&nbsp;
+<img src="https://img.icons8.com/fluency/96/database-backup.png" width="50" alt="Backup"/>
+&nbsp;&nbsp;
+<img src="https://img.icons8.com/fluency/96/restore-page.png" width="50" alt="Recovery"/>
 
-<img src="https://img.icons8.com/fluency/96/encryption.png" width="60" height="60" alt="Encryption"/>
-
-   
-
-<img src="https://img.icons8.com/fluency/96/data-protection.png" width="60" height="60" alt="Data Protection"/>
-
-   
-
-<img src="https://img.icons8.com/fluency/96/database-backup.png" width="60" height="60" alt="Backup"/>
-
-   
-
-<img src="https://img.icons8.com/fluency/96/restore-page.png" width="60" height="60" alt="Recovery"/>
-
-</div>
+</p>
 
 <p align="center">
 <code>ENCRYPTION</code>
-&nbsp;&nbsp;
+&nbsp;•&nbsp;
 <code>DATA PROTECTION</code>
-&nbsp;&nbsp;
+&nbsp;•&nbsp;
 <code>BACKUP</code>
-&nbsp;&nbsp;
+&nbsp;•&nbsp;
 <code>RECOVERY</code>
 </p>
 
----
+### Terminal
 
-## 💻 TERMINAL
+<p align="center">
 
-<div align="center">
+<img src="https://cdn.simpleicons.org/gnubash/00FF88" width="55" alt="Bash"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/powershell/00FF88" width="55" alt="PowerShell"/>
 
-<img src="https://cdn.simpleicons.org/gnubash/00FF88" width="60" height="60" alt="Bash"/>
-
-   
-
-<img src="https://cdn.simpleicons.org/powershell/00FF88" width="60" height="60" alt="PowerShell"/>
-
-</div>
+</p>
 
 <p align="center">
 <code>TERMINAL / CLI</code>
-&nbsp;&nbsp;
+&nbsp;•&nbsp;
 <code>BASH</code>
-&nbsp;&nbsp;
+&nbsp;•&nbsp;
 <code>POWERSHELL</code>
 </p>
 
 ---
 
-## `> SECURITY PRINCIPLES`
+## `> SECURITY FOCUS`
+
+<div align="center">
 
 ```text
-[+] PRIVACY
-[+] DEFENSIVE SECURITY
-[+] LEAST PRIVILEGE
-[+] ACCESS CONTROL
-[+] DATA PROTECTION
-[+] BACKUP & RECOVERY
-[+] SECURE SYSTEMS
+PRIVACY
+   │
+   ├── DEFENSIVE SECURITY
+   │
+   ├── SYSTEMS
+   │
+   ├── NETWORKS
+   │
+   ├── AUTHENTICATION
+   │
+   ├── ACCESS CONTROL
+   │
+   └── DATA PROTECTION
+```
+
+</div>
+
+---
+
+## `> CURRENTLY LEARNING`
+
+```text
+SYSTEMS             ████████████████░░░░
+NETWORK SECURITY     ██████████████░░░░░░
+PRIVACY              ███████████████░░░░░
+AUTHENTICATION       █████████████░░░░░░░
+DATA PROTECTION      ████████████░░░░░░░░
+DEFENSIVE SECURITY    ███████████░░░░░░░░░
 ```
 
 ---
 
-## `> CURRENT FOCUS`
+## `> PRINCIPLES`
+
+<div align="center">
 
 ```text
-SYSTEMS
-    ↓
-NETWORKS
-    ↓
-PRIVACY
-    ↓
-AUTHENTICATION
-    ↓
-ACCESS CONTROL
-    ↓
-DATA PROTECTION
-    ↓
-DEFENSIVE SECURITY
+THINK
+  ↓
+PRACTICE
+  ↓
+BUILD
+  ↓
+DOCUMENT
+  ↓
+IMPROVE
 ```
+
+</div>
 
 ---
 
@@ -202,11 +225,9 @@ DEFENSIVE SECURITY
 
 <div align="center">
 
-> **Learn. Practice. Build. Improve.**
-
-### Building practical cybersecurity knowledge
-
-### toward a more secure and private digital world.
+> **Building practical cybersecurity knowledge**
+>
+> **toward a more secure, private and open digital world.**
 
 </div>
 
@@ -215,11 +236,11 @@ DEFENSIVE SECURITY
 <div align="center">
 
 ```text
-┌──────────────────────────────────────────────┐
-│              SECURITY CONSOLE                │
-│                                              │
-│       THINK • PRACTICE • BUILD • IMPROVE     │
-└──────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│       THINK • PRACTICE • BUILD • IMPROVE            │
+│                                                     │
+└─────────────────────────────────────────────────────┘
 ```
 
 </div>
