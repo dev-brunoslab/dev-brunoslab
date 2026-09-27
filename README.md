@@ -92,10 +92,6 @@
 
    
 
-
-
-   
-
 <img src="https://img.icons8.com/fluency/96/lock.png" width="60" height="60" alt="Least Privilege"/>
 
 </div>
@@ -116,7 +112,7 @@
 
 <p align="center">
 
-<img src="https://img.icons8.com/fluency/96/data-protection.png" width="60" height="60" alt="Data Protection"/>
+<img src="https://img.icons8.com/fluency/96/encryption.png" width="60" height="60" alt="Encryption"/>
 
 </p>
 
