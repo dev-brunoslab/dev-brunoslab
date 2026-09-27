@@ -92,7 +92,7 @@
 
    
 
-<img src="https://img.icons8.com/fluency/96/access-control.png" width="60" height="60" alt="Access Control"/>
+
 
    
 
