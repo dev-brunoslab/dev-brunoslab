@@ -12,7 +12,7 @@
 
 ## `> WHOAMI`
 
-```text
+
 ┌──────────────────────────────────────────────┐
 │ CYBERSECURITY STUDENT                        │
 │                                              │
@@ -24,7 +24,7 @@
 │ • Access Control                              │
 │ • Data Protection                             │
 └──────────────────────────────────────────────┘
-```
+
 
 ---
 
@@ -146,8 +146,6 @@
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/gnubash/00FF88" width="60" height="60" alt="Bash"/>
-
    
 
 <img src="https://cdn.simpleicons.org/powershell/00FF88" width="60" height="60" alt="PowerShell"/>
@@ -166,7 +164,6 @@
 
 ## `> SECURITY PRINCIPLES`
 
-```text
 [+] PRIVACY
 [+] DEFENSIVE SECURITY
 [+] LEAST PRIVILEGE
@@ -174,13 +171,12 @@
 [+] DATA PROTECTION
 [+] BACKUP & RECOVERY
 [+] SECURE SYSTEMS
-```
 
 ---
 
 ## `> CURRENT FOCUS`
 
-```text
+
 SYSTEMS
     ↓
 NETWORKS
@@ -194,7 +190,6 @@ ACCESS CONTROL
 DATA PROTECTION
     ↓
 DEFENSIVE SECURITY
-```
 
 ---
 
@@ -214,12 +209,12 @@ DEFENSIVE SECURITY
 
 <div align="center">
 
-```text
+
 ┌──────────────────────────────────────────────┐
 │              SECURITY CONSOLE                │
 │                                              │
 │       THINK • PRACTICE • BUILD • IMPROVE     │
 └──────────────────────────────────────────────┘
-```
+
 
 </div>
