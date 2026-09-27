@@ -112,7 +112,7 @@
 
 <p align="center">
 
-<img src="https://img.icons8.com/fluency/96/encryption.png" width="60" height="60" alt="Encryption"/>
+<img src="https://img.icons8.com/fluency/96/restore-page.png" width="60" height="60" alt="Recovery"/>
 
 </p>
 
