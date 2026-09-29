@@ -1,209 +1,280 @@
 <div align="center">
 
-# `> BRUNO CARDOSO`
-
-### `CYBERSECURITY • PRIVACY • DEFENSIVE SECURITY`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=900&color=00FF88&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Privacy+%26+Defensive+Security;Systems+%7C+Networks+%7C+Access+Control;Learn+%7C+Practice+%7C+Build+%7C+Improve" />
-
-</div>
-
----
-
-## `> WHOAMI`
-
-
-┌──────────────────────────────────────────────┐
-│ CYBERSECURITY STUDENT                        │
-│                                              │
-│ Focus:                                       │
-│ • Privacy                                    │
-│ • Defensive Security                         │
-│ • Systems                                    │
-│ • Networks                                   │
-│ • Access Control                              │
-│ • Data Protection                             │
-└──────────────────────────────────────────────┘
-
-
----
-
-# `> TECHNOLOGIES & TOOLS`
-
-## 🖥️ OPERATING SYSTEMS
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" width="60" height="60" alt="Windows"/>
-
-   
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" height="60" alt="Linux"/>
-
-</div>
-
-<p align="center">
-<code>WINDOWS</code>
-&nbsp;&nbsp;
-<code>LINUX</code>
-</p>
-
----
-
-## 📦 VIRTUALIZATION
-
-<div align="center">
-
-<img src="https://cdn.simpleicons.org/virtualbox/00FF88" width="65" height="65" alt="VirtualBox"/>
+<img src="./assets/header.svg" alt="Terminal style profile header" width="100%">
 
 <br>
 
-<code>VIRTUALBOX</code>
+### `TAUZ` · FULL STACK DEVELOPER IN TRAINING
+
+**Cybersecurity background · Web development · Privacy · Secure
+systems**
+
+[![Status](https://img.shields.io/badge/STATUS-IN%20PROGRESS-3d8cff?style=flat-square&labelColor=070b0f)](#-status)
+[![Focus](https://img.shields.io/badge/FOCUS-FULL%20STACK%20%2B%20SECURITY-3d8cff?style=flat-square&labelColor=070b0f)](#-current-focus)
+[![Profile](https://img.shields.io/badge/PROFILE-GITHUB-3d8cff?style=flat-square&labelColor=070b0f)](#)
 
 </div>
 
----
+------------------------------------------------------------------------
 
-## 🌐 NETWORK & PRIVACY
+## `>_` About me
+
+> I'm learning by building, exploring new technologies and continuously
+> improving my skills.
+
+My goal is to create **real-world projects** while keeping a strong
+interest in **security, privacy and technology**.
+
+``` text
+┌─────────────────────────────────────────────────────────────┐
+│  LEARNING                 PRACTICE                BUILD      │
+│                                                             │
+│  Web Development          JavaScript / TS         Projects   │
+│  Cybersecurity            React                   Systems    │
+│  Secure Systems           Networking              Automation │
+└─────────────────────────────────────────────────────────────┘
+```
+
+<br>
+
+<div align="center">
+  <img src="./assets/cybersecurity.svg" width="520" alt="Cybersecurity focus">
+</div>
+
+------------------------------------------------------------------------
+
+## `01` KEY AREAS
+
+<table>
+<tr>
+<td width="25%">
+
+### 🔐 Privacy
+
+Protecting data
+
+</td>
+<td width="25%">
+
+### 🗄️ Data Protection
+
+Keeping information safe
+
+</td>
+<td width="25%">
+
+### 👥 Access Control
+
+Managing permissions
+
+</td>
+<td width="25%">
+
+### 🛡️ Least Privilege
+
+Minimal necessary access
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🧱 Defensive Security
+
+Preventing & detecting
+
+</td>
+<td>
+
+### ⚙️ Secure Systems
+
+Hardening & best practices
+
+</td>
+<td>
+
+### ♻️ Backup & Recovery
+
+Be prepared
+
+</td>
+<td>
+
+### 🌐 Networks
+
+Understanding how it works
+
+</td>
+</tr>
+</table>
+
+------------------------------------------------------------------------
+
+## `02` CURRENT FOCUS
+
+``` text
+01  Systems             Understanding the basics
+        ↓
+02  Networks            How everything connects
+        ↓
+03  Privacy             Protecting information
+        ↓
+04  Authentication      Verifying identity
+        ↓
+05  Access Control      Managing access
+        ↓
+06  Data Protection     Securing data
+        ↓
+07  Defensive Security  Detecting and preventing
+```
+
+### Development stack
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/fortinet/00FF88" width="60" height="60" alt="Firewall"/>
-
-   
-
-<img src="https://cdn.simpleicons.org/openvpn/00FF88" width="60" height="60" alt="VPN"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,linux,vscode&perline=10" alt="Technology stack">
 
 </div>
 
-<p align="center">
-<code>VPN</code>
-&nbsp;&nbsp;&nbsp;
-<code>FIREWALL</code>
-</p>
+------------------------------------------------------------------------
 
----
+## `03` STATUS
 
-## 🔐 ACCESS & AUTHENTICATION
+<table>
+<tr>
+<td width="50%">
+
+### Development
+
+``` text
+[ + ] Learning web development
+[ + ] Building foundations
+[ + ] Practicing JavaScript / TypeScript
+[ + ] Studying React
+[ + ] Exploring cybersecurity
+[   ] Building personal projects
+```
+
+</td>
+<td width="50%">
+
+### Cybersecurity
+
+``` text
+[ + ] Systems
+[ + ] Networks
+[ + ] Privacy
+[ + ] Authentication
+[ + ] Access Control
+[ + ] Data Protection
+[ + ] Defensive Security
+```
+
+</td>
+</tr>
+</table>
+
+------------------------------------------------------------------------
+
+## `04` PROJECTS
+
+> This section is intentionally clean — replace the placeholders with
+> your strongest work as your portfolio grows.
+
+<table>
+<tr>
+<td width="50%">
+
+### `01` PROJECT NAME
+
+Short description of the problem, solution and technologies.
+
+`JavaScript` `React` `Node.js`
+
+[→ View project](#)
+
+</td>
+<td width="50%">
+
+### `02` PROJECT NAME
+
+Short description focused on practical impact and what you learned.
+
+`TypeScript` `React` `Security`
+
+[→ View project](#)
+
+</td>
+</tr>
+<tr>
+<td>
+
+### `03` PROJECT NAME
+
+A security, automation or systems project.
+
+`Linux` `Networking` `Cybersecurity`
+
+[→ View project](#)
+
+</td>
+<td>
+
+### `04` PROJECT NAME
+
+A full-stack project showing your current level.
+
+`Full Stack` `API` `Database`
+
+[→ View project](#)
+
+</td>
+</tr>
+</table>
+
+------------------------------------------------------------------------
+
+## `05` MISSION
 
 <div align="center">
 
-<img src="https://img.icons8.com/fluency/96/security-checked.png" width="60" height="60" alt="2FA"/>
+> ### **Learn. Practice. Build. Improve.**
+>
+> Building practical knowledge in web development and cybersecurity,
+> toward a more secure and private digital world.
 
-   
-
-<img src="https://img.icons8.com/fluency/96/lock.png" width="60" height="60" alt="Least Privilege"/>
+`[ IN PROGRESS ]`
 
 </div>
 
-<p align="center">
-<code>2FA</code>
-&nbsp;&nbsp;
-<code>ACCESS CONTROL</code>
-&nbsp;&nbsp;
-<code>LEAST PRIVILEGE</code>
-</p>
+------------------------------------------------------------------------
 
----
-
-## 🛡️ DATA PROTECTION
+## `06` CONNECT
 
 <div align="center">
 
-<p align="center">
+<a href="https://github.com/SEU_USUARIO">
+  <img src="https://img.shields.io/badge/GitHub-070b0f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/SEU_USUARIO">
+  <img src="https://img.shields.io/badge/LinkedIn-070b0f?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
+</a>
+<a href="mailto:SEU_EMAIL">
+  <img src="https://img.shields.io/badge/Email-070b0f?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email">
+</a>
 
-<img src="https://img.icons8.com/fluency/96/restore-page.png" width="60" height="60" alt="Recovery"/>
+<br><br>
 
-</p>
+`> A MORE SECURE AND PRIVATE DIGITAL WORLD.`
 
 </div>
 
-<p align="center">
-<code>ENCRYPTION</code>
-&nbsp;&nbsp;
-<code>DATA PROTECTION</code>
-&nbsp;&nbsp;
-<code>BACKUP</code>
-&nbsp;&nbsp;
-<code>RECOVERY</code>
-</p>
-
----
-
-## 💻 TERMINAL
+------------------------------------------------------------------------
 
 <div align="center">
 
-
-<img src="https://cdn.simpleicons.org/gnubash/00FF88" width="60" height="60" alt="Bash"/>
-
-   
+<sub>Designed around a terminal-inspired aesthetic · minimal · technical
+· in progress</sub>
 
 </div>
 
-<p align="center">
-<code>TERMINAL / CLI</code>
-&nbsp;&nbsp;
-<code>BASH</code>
-&nbsp;&nbsp;
-<code>POWERSHELL</code>
-</p>
-
----
-
-## `> SECURITY PRINCIPLES`
-
-[+] PRIVACY
-[+] DEFENSIVE SECURITY
-[+] LEAST PRIVILEGE
-[+] ACCESS CONTROL
-[+] DATA PROTECTION
-[+] BACKUP & RECOVERY
-[+] SECURE SYSTEMS
-
----
-
-## `> CURRENT FOCUS`
-
-
-SYSTEMS
-    ↓
-NETWORKS
-    ↓
-PRIVACY
-    ↓
-AUTHENTICATION
-    ↓
-ACCESS CONTROL
-    ↓
-DATA PROTECTION
-    ↓
-DEFENSIVE SECURITY
-
----
-
-## `> MISSION`
-
-<div align="center">
-
-> **Learn. Practice. Build. Improve.**
-
-### Building practical cybersecurity knowledge
-
-### toward a more secure and private digital world.
-
-</div>
-
----
-
-<div align="center">
-
-
-┌──────────────────────────────────────────────┐
-│              SECURITY CONSOLE                │
-│                                              │
-│       THINK • PRACTICE • BUILD • IMPROVE     │
-└──────────────────────────────────────────────┘
-
-
-</div>
